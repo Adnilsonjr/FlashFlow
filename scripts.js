@@ -28,7 +28,6 @@ let showingAnswer = false;
 const content = document.getElementById("content");
 const position = document.getElementById("position");
 const nextBtn = document.querySelector(".next-button");
-const prevBtn = document.querySelector(".prev-button");
 
 function renderCard() {
   const card = flashcards[currentIndex];
