@@ -1,5 +1,6 @@
 # 📚 Flashcards Interativos
 
+📸 Preview 
 ![Preview](./img/preview.png)
 
 Projeto de flashcards interativos desenvolvido com **HTML**, **CSS** e **JavaScript puro**, ideal para auxiliar nos estudos com perguntas e respostas dinâmicas. Basta clicar no card para revelar a resposta, e navegar entre as questões usando os botões disponíveis.
